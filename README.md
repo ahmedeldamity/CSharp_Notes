@@ -68,6 +68,9 @@ ________________________________________________________________________________
 المشكلة التانية: Performed worse because Mono's (JIT) compilation and runtime weren't as optimized as Microsoft’s .NET runtime on Windows
 _______________________________________________________________________________________
 
+# Value Type & Refrence Type
+
+![image](https://github.com/user-attachments/assets/734bee6e-ba99-487a-ae36-d80d6a9709cb)
 
 
 
